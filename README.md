@@ -9,7 +9,7 @@ Ideally, we want to develop the application to detect any new file in the bucket
 
 following the next arquitecture:
 
-Following the next diagram ![Alt text](Hackathon_AWS-Page-1.jpg)
+Following the next diagram ![Alt text](pythonfunctions/Hackathon_AWS-Page-1.jpg)
 
 
 We could describe the steps of the process as follows:
