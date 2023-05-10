@@ -23,3 +23,6 @@ We could describe the steps of the process as follows:
 
 
 Additionally, once we could have more time and resources we could train a NLP model to automatize the inference of the information from conversation transcriptions and feed the formularies automatically. All could be develop using the same arquitecture seen in the diagram. 
+
+
+Finally, to demonstrate a glimpse of we could do with the data collected we leave here a screenshot of the Quicksight dashboard:
