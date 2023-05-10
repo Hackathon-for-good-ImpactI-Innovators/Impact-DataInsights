@@ -5,9 +5,7 @@ Data tasks with recorded audio infomation and generated insights
 
 Once we got the information from the recorded audio into the Bucket. We utilise the AWS SageMaker capabilities to process the data and generate insights table that feeds a QuickSight Report and report in the front end application and also extract a json formatted file to fulfill the form automatically. We would use a AWS lambda function to triggers the python jobs descripted below. This lambda is NOT part of this concept.
 
-Ideally, we want to develop the application to detect any new file in the bucket and process it and also apply a ML model where we could summarize the conversation with NLP techniques using Bert trained models which allows us to categorize every word and fill the form automatically. But, due to time restrictions and limits we accomplished the following tasks:
-
-following the next arquitecture:
+Ideally, we want to develop the application to detect any new file in the bucket and process it and also apply a ML model where we could summarize the conversation with NLP techniques using Bert trained models which allows us to categorize every word and fill the form automatically. But, due to time restrictions and limits we accomplished the following tasks in the next arquitecture:
 
 ![Alt text](pythonfunctions/Hackathon_AWS-Page-1.jpg)
 
