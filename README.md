@@ -26,3 +26,4 @@ Additionally, once we could have more time and resources we could train a NLP mo
 
 
 Finally, to demonstrate a glimpse of we could do with the data collected we leave here a screenshot of the Quicksight dashboard:
+![Alt text](QuickSight/DemoDashboard.png)
